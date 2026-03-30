@@ -1,0 +1,79 @@
+/* Body & Background */
+body {
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Card */
+.login-card {
+    background: rgba(255,255,255,0.05);
+    border-radius: 16px;
+    padding: 30px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    backdrop-filter: blur(10px);
+}
+
+/* Headings */
+.login-heading {
+    color: #e2e8f0;
+    font-weight: 700;
+}
+
+.login-subtitle {
+    color: #94a3b8;
+    margin-bottom: 25px;
+}
+
+/* Labels & Inputs */
+.form-label {
+    color: #cbd5e1;
+}
+
+.form-control {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    color: white;
+}
+
+.form-control::placeholder {
+    color: #94a3b8;
+}
+
+.input-group-text {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    color: white;
+}
+
+/* Button */
+.loginbtn {
+    background: #3b82f6;
+    border: none;
+    color: white;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.loginbtn:hover {
+    background: #2563eb;
+}
+
+/* Links */
+.signup-link {
+    color: #3b82f6;
+}
+
+.signup-link:hover {
+    color: #2563eb;
+}
+
+/* Error */
+.text-danger {
+    color: #ef4444 !important;
+}
