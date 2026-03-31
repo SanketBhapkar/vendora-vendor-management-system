@@ -23,6 +23,13 @@ A full-stack application to manage vendors, approvals, and product workflows.
 - JSP used for frontend views
 - MySQL used for data persistence
 
+## 🚀 Future Enhancements
+
+- Integration with Spring Boot for REST APIs
+- Improved UI/UX with modern frontend frameworks
+- Email notifications for vendor approval
+- Pagination and performance optimization
+
 ## ⚙️ Setup Instructions
 
 1. Clone the repository  
@@ -37,5 +44,7 @@ A full-stack application to manage vendors, approvals, and product workflows.
 <img width="1885" height="829" alt="image" src="https://github.com/user-attachments/assets/00b78e8c-66e8-42c9-ae48-70485cac3029" />
 
 
+## 📚 Learning Outcome
 
+This project helped in understanding MVC architecture, backend development using Servlets, database integration, and implementing real-world workflows like role-based access and approval systems.
 
